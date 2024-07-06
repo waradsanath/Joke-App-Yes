@@ -18,7 +18,8 @@ struct ContentView: View {
         Joke(setup: "Why couldn't Little Tristan get any girls", punchline: "He was too short"),
         Joke(setup: "What is Little Tristan favourite present from his aunt", punchline: "Screws"),
         Joke(setup: "What is the difference between Tristan and a large pizza", punchline: "One can feed a family"),
-        Joke(setup: "Dad, can you put my shoes on?", punchline: "I don’t think they'll fit me")
+        Joke(setup: "Dad, can you put my shoes on?", punchline: "I don’t think they'll fit me"),
+        Joke(setup: "Do u like jokes", punchline: "yes.")
     ]
     
     @State private var currentJokeIndex = 0
